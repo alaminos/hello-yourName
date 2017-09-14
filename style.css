@@ -1,0 +1,16 @@
+body {
+  
+  color: black;
+  background-color: bisque;
+  
+  font-family: Georgia, serif;
+  font-size: 20px;
+  
+}
+
+body div {
+  margin: 5% auto;
+  width: 300px;
+  
+  
+}
